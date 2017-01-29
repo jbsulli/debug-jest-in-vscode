@@ -1,0 +1,27 @@
+{
+  "name": "debug-jest-in-vscode",
+  "version": "1.0.0",
+  "description": "Trying to figure out why I can't debug Jest in VSCode",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbsulli/debug-jest-in-vscode.git"
+  },
+  "keywords": [
+    "jest",
+    "debug",
+    "vscode"
+  ],
+  "author": "Joshua Sullivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbsulli/debug-jest-in-vscode/issues"
+  },
+  "homepage": "https://github.com/jbsulli/debug-jest-in-vscode#readme",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
